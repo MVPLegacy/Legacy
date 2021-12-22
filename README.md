@@ -1,2 +1,2 @@
 # Legacy
-SpammerLegacy
+Legacy
